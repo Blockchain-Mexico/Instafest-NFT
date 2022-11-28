@@ -85,7 +85,7 @@ const progress: NextPage = () => {
                 </h2>
 
                 <div className={styles.grid}>
-                    <Link href='/betdashboard' >
+                    <Link href='/betadashboard' >
                         <Button
                             backgroundColor="#9c44dc"
                             borderRadius="25px"

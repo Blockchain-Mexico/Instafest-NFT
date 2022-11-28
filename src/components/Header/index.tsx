@@ -52,7 +52,7 @@ export const Header = () => {
             <NextLink href="/" passHref>
               <Link className="center flex gap-2">
                 <span> ❤️ </span>
-                <span className="text-xl">Bet For Good </span>
+                <span className="text-xl"> Instafest NFT</span>
               </Link>
             </NextLink>
           </Box>

@@ -7,7 +7,7 @@ import { BigNumber } from '@ethersproject/bignumber'
 import AnimatedText from 'react-animated-text-content';
 import { AwesomeButtonProgress } from "react-awesome-button";
 import Image from 'next/image'
-import profilePic from '../assets/logos/BFG1.5@2x.png'
+import profilePic from '../assets/logos/instafest.png'
 import {ButtonBase} from "@mui/material";
 import { AwesomeButton } from "react-awesome-button";
 
@@ -25,7 +25,7 @@ const Home: NextPage = () => {
   return (
       <div className={styles.container}>
         <Head>
-          <title> Bet for Good </title>
+          <title> Instafest NFT </title>
           <meta name="description" content="ETH + Next.js DApp Boilerplate" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
@@ -42,7 +42,7 @@ const Home: NextPage = () => {
                 />
             </div>
             <h2 className={styles.title}>
-            Welcome to
+                Create a festival lineup from your top artists.
             <AnimatedText
                 type="words" // animate words or chars
                 animation={{
@@ -60,8 +60,9 @@ const Home: NextPage = () => {
                 threshold={0.1}
                 rootMargin="20%"
             >
-              Bet For Good
-            </AnimatedText>
+                Sign in to your Spotify account to get started.
+
+                          </AnimatedText>
             <AnimatedText
                 type="words" // animate words or chars
                 animation={{
@@ -79,7 +80,7 @@ const Home: NextPage = () => {
                 threshold={0.1}
                 rootMargin="20%"
             >
-              With Safety
+                Sign in with Spotify
             </AnimatedText>
 
           </h2>

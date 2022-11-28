@@ -21,6 +21,7 @@ import { useState } from 'react';
 import { Box} from "../components/SellOut-Events/Box";
 import { touchableStyles } from "../styles/css/touchableStyles";
 import { generateMockData, MockData } from "../utils/generateMockData";
+import CheckoutModal from "../components/SellOutCheckOut/CheckoutModal";
 
 
 const betdashboard: NextPage = () => {

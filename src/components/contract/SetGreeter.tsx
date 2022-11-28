@@ -1,6 +1,7 @@
 import { useEffect, useState, FormEvent } from 'react';
 import { useContract, useSigner } from 'wagmi';
 
+// TODO: Foundry production code
 import contracts from '@/contracts/hardhat_contracts.json';
 import { NETWORK_ID } from '@/config';
 

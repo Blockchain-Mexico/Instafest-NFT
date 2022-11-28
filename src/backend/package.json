@@ -1,0 +1,13 @@
+{
+  "name": "Hardhat",
+  "version": "1",
+  "description": "yes",
+  "main": "index.js",
+  "repository": "a",
+  "author": "who knows",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "hardhat": "^2.12.2"
+  }
+}
