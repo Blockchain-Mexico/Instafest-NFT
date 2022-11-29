@@ -1,20 +1,22 @@
+[![Build Status](https://api.travis-ci.com/watsonbox/exportify.svg?branch=master)](https://travis-ci.com/watsonbox/exportify)
+
+
 # 🎹️👽 Welcome to Instafest NFT
 
 
 🎹️Create a festival lineup from your top artists.
+
 ↻      ◁  II  ▷     ↺ Sign in to your Spotify account to get started.
 
 ⭐️ And create a NFT of your gig.
 
-Why? be viral is just for a click bait moment but your gig is for forever.
+🤔 Why? be viral is just for a click bait moment but your gig is for forever.
 
-It was a copy past ultra sound money.
+As many users have noted, there is no way to export/archive/backup playlists from the Spotify client for safekeeping. This application provides a simple interface for doing that using the [Spotify Web API](https://developer.spotify.com/documentation/web-api/).
 
-Run:
+**No data will be saved - the entire application runs in the browser.**
 
-yarn 
-
-yarn run dev 
+It was a copy past ultra sound money on node js we need dedicated software!.
 
 
 ## 💻 Latest Updates [July 6th, 2022]
@@ -27,11 +29,11 @@ yarn run dev
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/ilyxium/eth-nextjs-boilerplate.git
+git clone https://github.com/Blockchain-Mexico/Instafest-NFT.git
 # then
-npm install
+yarn 
 # then
-npm run dev
+yarn run dev
 ```
 
 Please note: Some users have mentioned issues with using yarn, so I recommend using NPM
@@ -76,4 +78,11 @@ Change your chains in app.tsx:
   );
 ```
 
+## Error Monitoring
+
+Error monitoring provided by Bugsnag.
+
+<a href="http://www.bugsnag.com">
+  <img src="bugsnag.png" width="200" />
+</a>
 
