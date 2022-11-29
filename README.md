@@ -42,7 +42,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## 🔮 Future Features
 
-[] Any web 2 api for nft it
+[] Any web 2 api (instagram post, twitter post, facebook post, tik tok videos ) for nft it
 [] Market place 
 [] Creation of your collections and sell it
 
