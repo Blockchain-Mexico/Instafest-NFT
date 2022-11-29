@@ -40,6 +40,12 @@ Please note: Some users have mentioned issues with using yarn, so I recommend us
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## 🔮 Future Features
+
+[] Any web 2 api for nft it
+[] Market place 
+[] Creation of your collections and sell it
+
 ## 🛠 What's under the hood
 
 This boilerplate uses the following open source libraries to bring you a fully functional, mobile optimized dApp:
