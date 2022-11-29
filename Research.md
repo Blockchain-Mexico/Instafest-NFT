@@ -15,5 +15,4 @@ https://github.com/dhavall08/text-over-image
 
 
 #### To graphql
-
 https://github.com/charlypoly/spotify-graphql
