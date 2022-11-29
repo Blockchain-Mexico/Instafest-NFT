@@ -1,8 +1,8 @@
-# 👽 Welcome to Instafest NFT
+# 🎹️👽 Welcome to Instafest NFT
 
 
--Create a festival lineup from your top artists.
--Sign in to your Spotify account to get started.
+🎹️Create a festival lineup from your top artists.
+↻      ◁  II  ▷     ↺ Sign in to your Spotify account to get started.
 
 ⭐️ And create a NFT of your gig.
 
